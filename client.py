@@ -15,8 +15,8 @@ print """
 	(____/(__\_)(____)\_/\_/\_)(_/    (__)(__\_) \___)
 
 
-		          Secure IRC by dreaM
-		            dreambooter.xyz
+		          Secure IRC by DreamSec
+		              Dreamsec.club
 
 """
 
